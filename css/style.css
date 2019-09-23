@@ -1,0 +1,16 @@
+.nav-bg {
+    background-color: #fff;
+}
+
+a{
+    color: #cfcfcf;
+}
+
+.one{
+    background: url(../img/icrowdme-PSD---cssauthor.png)center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+  padding: 50px 0;
+}
